@@ -17,7 +17,7 @@ This shell script is designed to automate the installation of Ubuntu, a lightwei
 
     ```sh
     git clone https://github.com/love9678/kinV1.0.git
-    cd freeroot
+    cd kinV1.0
     ```
 
 2. Run the installer script:
