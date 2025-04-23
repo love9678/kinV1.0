@@ -1,8 +1,8 @@
-# Foxytoux Installer
+# Ubuntu Installer
 
 ## Overview
 
-This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot.
+This shell script is designed to automate the installation of Ubuntu, a lightweight Ubuntu environment using Proot.
 
 ## Prerequisites
 
@@ -37,12 +37,12 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
 ## License
 
-This Foxytoux Installer script is released under the [MIT License](LICENSE).
+This Ubuntu Installer script is released under the [MIT License](LICENSE).
 
 ## Credits
 
-Foxytoux Installer is developed and maintained by RecodeStudios.Cloud.
-This installer has been made possible thanks to [dxomg](https://github.com/dxomg) for his proot code
+Ubuntu Installer is developed and maintained by loves9678.
+This installer has been made possible thanks to [dxomg](https://github.com/love9678/kinV1.0) for his proot code
 
 ---
 
